@@ -14,8 +14,8 @@ the air somewhere.  Objects disappear when the user says the command "Delete."
 That's it.
 
 ## Required Software
-*Unity 2020.3.17f1 or later
-*MRTK 2.7.2 or later
+* Unity 2020.3.17f1 or later
+* MRTK 2.7.2 or later
 
 ## MRTK Dependencies
 * Mixed Reality Toolkit Extensions 2.7.2
